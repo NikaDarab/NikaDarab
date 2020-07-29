@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**NikaDarab/NikaDarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, I'm Nika 👋,
 
 - 🔭 I’m currently working on [C3](https://coochiecare.club/), a subscription based service for all things vaginal care. 
@@ -13,4 +8,4 @@ Hello, I'm Nika 👋,
 - 📫 How to reach me: nikadarab@pm.me 
 - 😄 P
 - ⚡ Fun fact: I am bilingual. I speak Farsi and English.
--->
+
