@@ -10,4 +10,4 @@ I am full-stack software engineer and always learning.
 - 📫 How to reach me: nikadarab@pm.me 
 - 😄 P
 - ⚡ Fun fact: I am bilingual. I speak Farsi and English.
- <img href="{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEDZXxOavs","i":"rz6WV-Nlte5hSVCJY2oEAA","b":1596057809314,"A":[{"A?":"I","D":377.9527559055117,"C":408.7383813865371,"a":{"A":false,"B":{"A":{"A":"MADwe9fxLQ0","B":1},"B":{"A":-5.684341886080802e-14,"B":-5.684341886080802e-14,"D":377.9527559055118,"C":408.7383813865373}}}}],"B":377.9527559055118,"C":377.9527559055118}"> </img>
+ 
