@@ -11,5 +11,5 @@ I am full-stack software engineer and always learning.
 - 😄 P
 - ⚡ Fun fact: I am bilingual. I speak Farsi and English.
  
-<img class= "logo" src="./nika.png"></img>
-<link rel="stylesheet" href="github.css">
+!---<img class= "logo" src="./nika.png"></img>
+<link rel="stylesheet" href="github.css">--!
