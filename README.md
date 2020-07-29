@@ -11,4 +11,4 @@ I am full-stack software engineer and always learning.
 - 😄 P
 - ⚡ Fun fact: I am bilingual. I speak Farsi and English.
  
-<img href="./nika.png"></img>
+<img src="./nika.png"></img>
