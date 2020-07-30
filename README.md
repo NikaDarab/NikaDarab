@@ -8,6 +8,5 @@ I am full-stack software engineer and always learning.
 - 🤓 I am participating in #100daysofcode as well #javascript30 
 - 💬 Ask me about [C3](https://coochiecare.club/), start ups and projects empowering local community impact.
 - 📫 How to reach me: nikadarab@pm.me 
-- 😄 P
 - ⚡ Fun fact: I am bilingual. I speak Farsi and English.
 
