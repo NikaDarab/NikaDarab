@@ -1,6 +1,3 @@
-
-<img src="./nd.png"></img>
-
 Hello, I'm Nika 👋,
 
 I am full-stack software engineer and always learning. 
